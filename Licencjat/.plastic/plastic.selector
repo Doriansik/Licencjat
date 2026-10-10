@@ -1,4 +1,4 @@
-repository "Licencjat/Licencjat@7971578294943@cloud"
+repository "Licencjat 2026-10-10_19-33-47/Licencjat@7971578294943@cloud"
   path "/"
     br "/main"
     co "/main"
